@@ -9,6 +9,7 @@ namespace Puzle1_8
         public void p()
         {
             Console.WriteLine("");
+            Console.WriteLine("");
         }
     }
 }
